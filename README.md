@@ -15,7 +15,7 @@
 - View my repos by clicking on either of the icons, I have organized my repos under different organizations
 
 ## Hear me..
-https://raw.githubusercontent.com/drvaya/drvaya/github-soundcloud.mp3
+[img src="https://github.com/drvaya/drvaya/blob/master/soundcloud.png"](https://soundcloud.com/dharmesh-vaya/github-profile-dharmesh-vaya)
 
 ## Get in touch :coffee:
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/@DRVaya) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@DRVaya)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dharmeshvaya/)
