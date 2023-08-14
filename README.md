@@ -3,10 +3,11 @@
 ### Hey All 👋
 
 ## About me
-- 🔭 I currently work as the Director of Technology at [Agrahyah Technologies.](https://agrahyah.com/cloud)
-- 🌱 Learning new stuff around - Multi-Cloud Architectures + Anthos
+- 🔭 I currently work as a Solutions Architect at [PaloAlto Networks.](https://www.paloaltonetworks.com/prisma/cloud)
+- 🌱 Learning new stuff around - Securing the Clouds, Multi-Cloud Architectures
 - 🎤 Open for public speaking/online talks, Communities are awesome :heart: 
-- 💬 Ask me about : Cloud Technologies viz. Multi-Cloud, Serverless and BigData
+- 💬 Ask me about : Cloud Technologies viz. Cloud Security, Multi-Cloud, Serverless
+- 📝 Check out my Blog - [KloudZone](https://blog.kloudzone.co.in)
 - 📝 Check out my Medium Publication - [CloudWinds](https://medium.com/CloudWinds)
 - 📫 Reach out to me via Twitter/LinkedIn
 
